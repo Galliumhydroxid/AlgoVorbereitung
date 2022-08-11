@@ -1,0 +1,1 @@
+In VL 1 könnte man Katasubras Algorithmus weiter abkürzen, ich habe es aber mal so gelassen
